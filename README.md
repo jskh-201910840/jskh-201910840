@@ -24,8 +24,8 @@ Before PIAI I came through a human-centered AI program, so I still care about wh
 ### What I'm working on lately
 
 - Curating [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents) — papers + taxonomy + a toy misevolution demo
-- Agents that **learn the wrong lesson** from their own feedback (misevolution, write-gates, re-anchoring — the boring safety stuff)
-- Side projects: a [**Teams news bot**](https://github.com/sukoji/teams-news), [**dialect TTS**](https://github.com/sukoji/VoxCPM-dialect) experiments
+- Agents that **learn the wrong lesson** from their own feedback (misevolution, write-gates, re-anchoring)
+- [**Dialect TTS**](https://github.com/sukoji/VoxCPM-dialect) & [**korean-dialect-pipeline**](https://github.com/sukoji/korean-dialect-pipeline) at PIAI
 
 ---
 
@@ -34,12 +34,21 @@ Before PIAI I came through a human-centered AI program, so I still care about wh
 | | Project | Notes |
 |:---:|---------|-------|
 | 🔬 | [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents) | 90+ papers · misevolution safety · runnable demos |
+| 🗣️ | [**VoxCPM-dialect**](https://github.com/sukoji/VoxCPM-dialect) | Gyeongsang dialect TTS · VoxCPM fine-tuning |
+| 🎙️ | [**korean-dialect-pipeline**](https://github.com/sukoji/korean-dialect-pipeline) | Dialect corpus → synthesis pipeline |
+| 📰 | [**teams-news**](https://github.com/sukoji/teams-news) | AI/tech news → Microsoft Teams (daily bot) |
+
+<details>
+<summary><b>Earlier work</b> — course projects & practice</summary>
+
+| | Project | Notes |
+|:---:|---------|-------|
 | 🚌 | [**smuAIX-Basic**](https://github.com/sukoji/smuAIX-Basic) | Seoul transit EDA · SMU AI+X Basic |
 | 📝 | [**InyroDjangoMentoring**](https://github.com/sukoji/InyroDjangoMentoring) | Django blog · markdown · comments · auth |
 | 💰 | [**wage-recommendation-ml**](https://github.com/sukoji/wage-recommendation-ml) | Part-time wage ML · SMU AI+X team project |
 | 🧩 | [**programmers-algorithm**](https://github.com/sukoji/programmers-algorithm) | Programmers Lv.0–2 solutions |
-| 📰 | [**teams-news**](https://github.com/sukoji/teams-news) | AI news → Microsoft Teams |
-| 🗣️ | [**VoxCPM-dialect**](https://github.com/sukoji/VoxCPM-dialect) | Gyeongsang dialect TTS experiments |
+
+</details>
 
 ---
 
@@ -75,5 +84,5 @@ Before PIAI I came through a human-centered AI program, so I still care about wh
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d85a30,100:1b1b1b&height=80&section=footer&fontSize=20&text=thanks%20for%20stopping%20by&fontColor=ffffff" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d85a30,100:1b1b1b&height=80&section=footer&fontSize=20&text=thanks%20for%20stopping%20by&fontColor=1b1b1b&stroke=d85a30&strokeWidth=1" alt="footer"/>
 </div>
