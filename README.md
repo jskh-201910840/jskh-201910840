@@ -15,17 +15,17 @@
 **Sangmyung Univ.** · Human-Centered AI Engineering (휴먼AI공학)  
 **Now** · researcher at [POSTECH Institute for Artificial Intelligence (PIAI)](https://piai.postech.ac.kr/english)
 
-I mostly work on **LLM agents that keep changing themselves** — memory, tools, workflows, all of it — and the ways that goes wrong in practice. A lot of my GitHub time goes into reading papers, sorting them into something walkable, and building small runnable sketches when I need to see a mechanism for real.
+Developer and researcher who likes staying close to where agents are going — multi-agent setups, eval harnesses, tool use, the plumbing around all of it. I spend a fair amount of time reading papers, following what actually changes vs. what just got rebranded, and writing small code when I need to see if something holds up.
 
-Before PIAI I came through a human-centered AI program, so I still care about whether these systems are understandable and safe for people, not just whether the benchmark number went up.
+Human-centered AI background, so I still notice when a system would be hard to trust or use in practice — not just when the benchmark looks good.
 
 ---
 
 ### What I'm working on lately
 
-- Curating [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents) — papers + taxonomy + a toy misevolution demo
-- Agents that **learn the wrong lesson** from their own feedback (misevolution, write-gates, re-anchoring)
-- [**Dialect TTS**](https://github.com/sukoji/VoxCPM-dialect) & [**korean-dialect-pipeline**](https://github.com/sukoji/korean-dialect-pipeline) at PIAI
+- Agent stack trends: orchestration, harnesses/benchmarks, memory & tool routing
+- Dialect speech at PIAI — [**VoxCPM-dialect**](https://github.com/sukoji/VoxCPM-dialect), [**korean-dialect-pipeline**](https://github.com/sukoji/korean-dialect-pipeline)
+- Paper reading maps & runnable notes, e.g. [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents)
 
 ---
 
