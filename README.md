@@ -64,13 +64,13 @@ Human-centered AI background, so I still notice when a system would be hard to t
 ### GitHub activity
 
 <p align="center">
-  <img height="125" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukoji&theme=tokyonight" alt="GitHub stats"/>
-  <img height="125" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukoji&theme=tokyonight" alt="Top languages"/>
-  <img height="125" src="https://streak-stats.demolab.com/?user=sukoji&theme=tokyonight&hide_border=true&card_width=340" alt="GitHub streak"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sukoji&theme=tokyonight" alt="GitHub stats"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukoji&theme=tokyonight" alt="Top languages"/>
+  <img width="32%" src="https://streak-stats.demolab.com/?user=sukoji&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img width="92%" height="100" src="https://github-readme-activity-graph.vercel.app/graph?username=sukoji&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sukoji&theme=tokyonight&hide_border=true&area=true&height=210&custom_title=Contribution%20graph" alt="Contribution graph"/>
 </p>
 
 ---
