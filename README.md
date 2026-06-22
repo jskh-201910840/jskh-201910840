@@ -72,7 +72,7 @@ Human-centered AI background, so I still notice when a system would be hard to t
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sukoji&theme=tokyonight" alt="Top languages"/>
     </td>
     <td width="33.3%" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sukoji&theme=tokyonight" alt="Profile details"/>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sukoji&theme=tokyonight" alt="Top languages in commits"/>
     </td>
   </tr>
 </table>
