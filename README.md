@@ -26,8 +26,8 @@ Human-centered AI background, so I still notice when a system would be hard to t
 | 🔬 | [**awesome-self-evolving-agents**](https://github.com/sukoji/awesome-self-evolving-agents) | 90+ papers · misevolution safety · runnable demos |
 | 📚 | [**multi-agent-paper-log**](https://github.com/sukoji/multi-agent-paper-log) | paper-by-paper TIL on multi-agent LLM systems — orchestration, tools, memory, eval |
 | ⚡ | [**token-stack**](https://github.com/sukoji/token-stack) | animated token-usage cards for READMEs · local agent logs → SVG + gist, no server |
+| 🎯 | [**loadout**](https://github.com/sukoji/loadout) | project-aware Claude Code setup · scan→match→apply MCP/hooks/skills · `npx claude-loadout` |
 | 🗣️ | [**VoxCPM-dialect**](https://github.com/sukoji/VoxCPM-dialect) | Gyeongsang dialect TTS · VoxCPM fine-tuning · dialect speech work at PIAI |
-| 📰 | [**teams-news**](https://github.com/sukoji/teams-news) | AI/tech news → Microsoft Teams (daily bot) |
 
 <details>
 <summary><b>Earlier work</b> — course projects & practice</summary>
