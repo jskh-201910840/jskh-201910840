@@ -55,7 +55,7 @@ Human-centered AI background, so I still notice when a system would be hard to t
 </p>
 
 <p align="center">
-  <img width="100%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-activity.svg" alt="30-day token activity skyline via token-stack"/>
+  <img width="96%" src="https://gist.githubusercontent.com/sukoji/780bd14b07e37bb5c07da20f56ca39f7/raw/token-stack-activity.svg" alt="30-day token activity skyline via token-stack"/>
 </p>
 
 ---
